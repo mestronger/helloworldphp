@@ -19,11 +19,15 @@ echo "
 ██████╔╝██████╔╝██║░░██║
 ██╔═══╝░██╔══██╗██║░░██║
 ██║░░░░░██║░░██║╚█████╔╝
-╚═╝░░░░░╚═╝░░╚═╝░╚════╝░. <br>";
-
-echo "WELCOME HACKING PRANK PRO <br>";
-echo "1. input url:<br>";
-echo "2. input username:<br>";
-echo "3. input email:<br>";
-echo "4. input phone number:<br>";
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░";
+<br>
+echo "WELCOME HACKING PRANK PRO";
+<br>
+echo "1. input url:";
+<br>
+echo "2. input username:";
+<br>
+echo "3. input email:";
+<br>
+echo "4. input phone number:";
 ?>
