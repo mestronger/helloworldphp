@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # Fungsi untuk menampilkan menu
+echo "
+█ █▄░█ █▀▀ █▀█   ▀█▀ █▀█ █▀█ █░░ █▀
+█ █░▀█ █▀░ █▄█   ░█░ █▄█ █▄█ █▄▄ ▄█"
+
 show_menu() {
     clear
     echo "REKOMENDASI TOOLS WORK"
