@@ -1,10 +1,11 @@
 #!/bin/bash
 
-# Fungsi untuk menampilkan menu
 echo "
 █ █▄░█ █▀▀ █▀█   ▀█▀ █▀█ █▀█ █░░ █▀
 █ █░▀█ █▀░ █▄█   ░█░ █▄█ █▄█ █▄▄ ▄█"
 
+
+# Fungsi untuk menampilkan
 show_menu() {
     clear
     echo "REKOMENDASI TOOLS WORK"
@@ -18,9 +19,9 @@ show_menu() {
 get_input() {
     read -p "Masukkan pilihan Anda: " choice
     case $choice in
-        1) echo "https://github.com/bhikandeshmukh/fbreport.git";;
-        2) echo "https://github.com/ZoraaCode/brutefb";;
-        3) echo "https://github.com/htr-tech/track-ip.git";;
+        1) echo "https.//github-com/bhikandeshmukh/fbreport.git";;
+        2) echo "https.//github-com/ZoraaCode/brutefb";;
+        3) echo "https.//github-com/htr-tech/track-ip.git";;
         4) exit;;
         *) echo "Pilihan tidak valid";;
     esac
